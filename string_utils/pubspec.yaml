@@ -1,7 +1,8 @@
 name: string_utils
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/rudramistry001/string_utils_dart  # Example homepage URL
+repository: https://github.com/rudramistry001/string_utils_dart  #
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
